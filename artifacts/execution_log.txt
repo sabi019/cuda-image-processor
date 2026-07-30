@@ -1,0 +1,8 @@
+[INFO] Initializing CUDA Device...
+[INFO] Loaded input image: data/input/sample.pgm (Width: 2048, Height: 2048)
+--- Performance Results ---
+Image Size: 2048x2048
+CPU Time: 198.10 ms
+GPU Kernel Time: 3.10 ms
+Speedup: 63.90x
+[INFO] Output successfully saved to data/output/result.pgm
